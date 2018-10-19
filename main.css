@@ -1,0 +1,16 @@
+body{
+    background-image: -moz-linear-gradient(left, #7bed9f, #FFFF66);
+    background-image: -webkit-gradient(linear, left top, right top, color-stop(0.00, #7bed9f), color-stop(1.0, #FFFF66));
+    border-style: dotted
+}
+h1 {
+    font-family: 'Merriweather', serif;
+    color: brown;
+}
+li {
+    font-family: cursive;
+    font-style: oblique;
+}
+.lista {
+    font-family: 'Fira Sans', sans-serif;
+}
